@@ -1,0 +1,1 @@
+"""CLI layer for CryptoTracker — commands, formatting, and error handling."""

@@ -1,0 +1,41 @@
+# Virtual environments
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest/cache/coverage
+.pytest_cache/
+**/.pytest_cache/
+.coverage
+htmlcov/
+
+# Build/package artifacts
+*.egg-info/
+**/*.egg-info/
+build/
+dist/
+
+# Local data and logs
+data/
+logs/
+**/data/
+**/logs/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Local env files
+.env
+.env.local
+
+# Generated/temp files
+backup.json

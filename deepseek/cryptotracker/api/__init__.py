@@ -1,0 +1,1 @@
+"""External API clients — Frankfurter (fiat) and CoinGecko (crypto)."""
